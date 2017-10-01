@@ -1,4 +1,4 @@
-package parser;
+package lab2.parser;
 
 import java.io.InputStream;
 import java.util.Arrays;

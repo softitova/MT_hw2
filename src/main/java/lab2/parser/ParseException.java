@@ -1,4 +1,4 @@
-package parser;
+package lab2.parser;
 
 /**
  * Created by Sophia Titova on 01.10.17.

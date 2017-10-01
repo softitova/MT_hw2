@@ -1,7 +1,7 @@
-package parser.visualisation;
+package lab2.parser.visualisation;
 
-import parser.ParseException;
-import parser.Parser;
+import lab2.parser.ParseException;
+import lab2.parser.Parser;
 
 import java.io.File;
 import java.io.FileInputStream;

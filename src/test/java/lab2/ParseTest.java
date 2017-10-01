@@ -1,6 +1,8 @@
+package lab2;
+
 import org.junit.Test;
-import parser.ParseException;
-import parser.Parser;
+import lab2.parser.ParseException;
+import lab2.parser.Parser;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
